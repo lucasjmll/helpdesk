@@ -1,0 +1,21 @@
+# --- Python / Django ---
+venv/
+.venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+.env
+
+# --- React / Vite ---
+**/node_modules/
+**/dist/
+**/build/
+.eslintcache
+
+# --- Sistema e IDEs ---
+.DS_Store
+.vscode/
+Thumbs.db
